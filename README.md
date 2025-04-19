@@ -1,5 +1,3 @@
----
-
 ```markdown
 # 🔐 Search for All Leaked Keys & Secrets Using One Regex
 
@@ -156,7 +154,4 @@ Application Security | DevSecOps
 [📧 anshumaansingh10jan@gmail.com](mailto:anshumaansingh10jan@gmail.com)  
 [🔗 LinkedIn](https://linkedin.com/in/anshumaan-singh-6b51b5239)
 
----
-```
 
----
